@@ -1,10 +1,3 @@
-# HC Open House 2018
+# Hwa Chong Institution (College) Open House App
 
-A new Flutter project.
-An App for Hwa Chong Institution (College) Open House 2018
-
-## Getting Started
-For help getting started with Flutter, view our online
-[documentation](http://flutter.io/).
-
-# OHA
+This project is the Flutter app for the Open House.
