@@ -2,5 +2,5 @@
 
 The main files are:
 
-+ **main**: classes and methods pertaining to the main interface encompassing every other widget in
-the app.
++ **main**: contains the main function that initializes the application
++ **app**: contains the container screen for the core navigation and app bar of the application
